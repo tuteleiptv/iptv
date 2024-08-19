@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports + SD
 http://186.148.163.18:8000/play/a043
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports + SD
-http://186.148.163.18:8000/play/a043
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espnp.png" group-title="Deportes",Espn Premium HD
+http://186.148.163.18:8000/play/a050
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol SD
+http://186.148.163.18:8000/play/a003
